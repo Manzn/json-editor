@@ -1,0 +1,11 @@
+{
+  "title": "seas",
+  "description": "beschreibung",
+  "fields": [{
+    "title": "titel 1",
+    "description": "beschreibung 1"
+  }, {
+    "title": "titel 2",
+    "description": "beschreibung 2"
+  }]
+}
